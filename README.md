@@ -1,21 +1,58 @@
-<h1 align="center">Hola 👋, soy Ronaldo Stiven Rosero Gutiérrez</h1><h3 align="center">Un desarrollador frontend apasionado de Colombia que quiere mejorar en el backend para ser un full stack</h3>
-
-
-- Actualmente estoy trabajando en un proyecto de curso [Animal Word (Blast-Software)](https://github.com/arcelot27/BLAST-SOFTWARE.git)
-
-- 🌱 🔭 Actualmente estoy aprendiendo **Desarrollo web con PHP, Lenguaje SQL**- Todos mis proyectos están disponibles en [https://github.com/Ronaldo07rgr](https://github.com/Ronaldo07rgr)
-
-- How to reach me **roseroronaldo07@gmail.com**
-
-- ⚡ 📫 💻 👨 Dato curioso **Me enfoco mucho en lo que me gusta**
-
-
-
-<h3 align="left">Conéctate conmigo:</h3><p align="left">
-
-<a href="https://fb.com/ronaldo Stiven Gutierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ronaldo Stiven Gutierrez" height="30" width="40" /></a>
-<a href="https://instagram.com/ronaldo07_rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronaldo07_rg" height="30" width="40" /></a></p>
-
-
-<h3 align="left">Languages and Tools:</h3><p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mi Perfil</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .profile {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .profile-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .profile-bio {
+    font-size: 16px;
+    color: #666666;
+    margin-bottom: 20px;
+  }
+  
+  .profile-link {
+    text-decoration: none;
+    color: #007bff;
+  }
+</style>
+</head>
+<body>
+  <div class="profile">
+    <img class="profile-img" src="tu-imagen.jpg" alt="Mi Foto de Perfil">
+    <h1 class="profile-name">Tu Nombre</h1>
+    <p class="profile-bio">¡Hola! Soy un apasionado de la programación y la tecnología. Me encanta aprender cosas nuevas y compartir conocimientos.</p>
+    <p>Puedes encontrarme en GitHub: <a class="profile-link" href="https://github.com/tu-usuario">github.com/tu-usuario</a></p>
+  </div>
+</body>
+</html>
