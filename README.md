@@ -64,5 +64,27 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Ronaldo-Stiven-Rosero)
 
 </div>
+<div align='center'>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"><b> Estadísticas de GitHub</b>
+<br>
+
+Aquí puedes ver algunas estadísticas dinámicas sobre mi actividad y mi perfil en GitHub:
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Ronaldo07rgr&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Ronaldo07rgr&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronaldo07rgr&show_icons=true" />
+</picture>
+
+[! [Top Langs] ([6](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldo07rgr)]
+
+
+</div>
 
 </div>
