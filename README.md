@@ -24,8 +24,8 @@
 
 - **Languages**:
 
-![Python](https://img.shields.io/badge/Python%20-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/Php%20-%6f7da1.svg?style=for-the-badge&logo=php&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python%20-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
+   ![PHP](https://img.shields.io/badge/Php%20-%6f7da1.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <br>
     
