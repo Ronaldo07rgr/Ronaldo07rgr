@@ -24,8 +24,8 @@
 
 - **Languages**:
 
-![Python](https://github.com/camilafernanda/GlicoCare%29)
-![PHP](https://avatars.githubusercontent.com/u/69361149?v=4)
+![Python]
+![PHP]
 
 <br>
     
