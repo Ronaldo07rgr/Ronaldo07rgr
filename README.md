@@ -23,9 +23,11 @@
 <p align="center">
 
 - **Languages**:
-    
 
-<br>   
+![Python](https://github.com/camilafernanda/GlicoCare%29)
+![PHP](https://avatars.githubusercontent.com/u/69361149?v=4)
+
+<br>
     
 - **Front-End Development**:
 
