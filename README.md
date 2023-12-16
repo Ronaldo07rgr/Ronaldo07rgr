@@ -10,6 +10,7 @@
 - A passionate front-end developer
 - Play CodMovil in free time
 - Currently learning web development with PHP with short courses
+- I am also interested in database management with MySQL and the use of Microsoft Office office tools.
 - I am currently open for an internship or a new job opportunity, this is [my resume] (Make web)
 
 <br><br>
