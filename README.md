@@ -24,7 +24,7 @@
 
 - **Languages**:
 
-![Python](https://img.shields.io/badge/Python%20-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%0078d7.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP]
 
 <br>
